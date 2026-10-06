@@ -12,7 +12,10 @@ asks once before it opens them.
 1. Download `Sonith-mac.zip` from the latest release and open it. Drag **Sonith** into **Applications**.
 2. Open Sonith. macOS says it can't verify the app: click **Done**.
 3. Open **System Settings → Privacy & Security**, scroll down to the message about Sonith and click **Open Anyway**.
-   Confirm once. From then on it opens normally.
+4. Enter your Mac password. macOS asks one last time: click **Open Anyway** (not the blue *Move to Trash*).
+   From then on it opens normally.
+
+The download page has a step-by-step picture guide for this: **See how, step by step**.
 
 On first use Sonith downloads its separation models from their authors. Your songs never leave your Mac.
 
