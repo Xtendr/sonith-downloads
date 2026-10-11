@@ -4,6 +4,10 @@ Installers for **Sonith**, a desktop app that takes any song apart into vocals, 
 computer. The app's source code is private; this repository only holds the installers, under
 [Releases](https://github.com/Xtendr/sonith-downloads/releases).
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/xtendr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
+</p>
+
 These are early personal builds, shared with friends. They are not signed by Apple or Microsoft yet, so your computer
 asks once before it opens them.
 
